@@ -1,0 +1,100 @@
+{
+  "Jaipur": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Jaipur",
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "Amber Fort",
+              "short_description": "A majestic fort known for its artistic Hindu style elements.",
+              "best_time_to_visit": "Morning (8 AM - 11 AM)",
+              "image_url": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&q=80&w=800"
+            },
+            {
+              "place_name": "Hawa Mahal",
+              "short_description": "The Palace of Winds, a high screen wall built so the women of the royal household could observe street festivals.",
+              "best_time_to_visit": "Early Morning",
+              "image_url": "https://images.unsplash.com/photo-1603262110263-fb0112e7cc33?auto=format&fit=crop&q=80&w=800"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "City Palace",
+              "short_description": "A complex of courtyards, gardens and buildings, the City Palace is right in the centre of the Old City.",
+              "best_time_to_visit": "Afternoon",
+              "image_url": "https://images.unsplash.com/photo-1524230507669-5ff97982bb5e?auto=format&fit=crop&q=80&w=800"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "Nahargarh Fort",
+              "short_description": "Stands on the edge of the Aravalli Hills, overlooking the city of Jaipur.",
+              "best_time_to_visit": "Sunset",
+              "image_url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&q=80&w=800"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "Rambagh Palace",
+              "area": "Bhawani Singh Road",
+              "why_good": "Former residence of the Maharaja of Jaipur."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Laxmi Mishthan Bhandar",
+              "cuisine": "Rajasthani Thali",
+              "why_visit": "Authentic taste of Jaipur."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Varanasi": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Varanasi",
+      "itinerary": [],
+      "hotels": [],
+      "restaurants": []
+    }
+  },
+  "Kerala": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Kerala",
+      "itinerary": [],
+      "hotels": [],
+      "restaurants": []
+    }
+  },
+  "Goa": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Goa",
+      "itinerary": [],
+      "hotels": [],
+      "restaurants": []
+    }
+  }
+}
