@@ -8,16 +8,22 @@
           "day": 1,
           "places": [
             {
-              "place_name": "Amber Fort",
-              "short_description": "A majestic fort known for its artistic Hindu style elements.",
-              "best_time_to_visit": "Morning (8 AM - 11 AM)",
-              "image_url": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&q=80&w=800"
+              "place_name": "Hawa Mahal",
+              "short_description": "Witness the 'Palace of Winds' at sunrise, where 953 honeycomb windows glow with a celestial pink radiance, capturing the essence of Rajputana elegance.",
+              "best_time_to_visit": "6:00 AM - 8:00 AM",
+              "image_url": "https://images.unsplash.com/photo-1650530777057-3a7dbc24bf6c?q=80&w=501&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-              "place_name": "Hawa Mahal",
-              "short_description": "The Palace of Winds, a high screen wall built so the women of the royal household could observe street festivals.",
-              "best_time_to_visit": "Early Morning",
-              "image_url": "https://images.unsplash.com/photo-1603262110263-fb0112e7cc33?auto=format&fit=crop&q=80&w=800"
+              "place_name": "Amer Fort",
+              "short_description": "Ascend to a golden-hued fortress where intricate marble carvings and the Sheesh Mahal mirror work transport you back to an era of royal grandeur.",
+              "best_time_to_visit": "10:00 AM - 1:00 PM",
+              "image_url": "https://plus.unsplash.com/premium_photo-1661962387472-553d96ed01a3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+              "place_name": "City Palace",
+              "short_description": "Explore a sprawling complex of courtyards and museums, featuring the iconic peacock-themed gates and the royal residence of the Maharaja.",
+              "best_time_to_visit": "2:30 PM - 4:30 PM",
+              "image_url": "https://assets.architecturaldigest.in/photos/693123a410b3858ffe6287ff/4:3/w_1440,h_1080,c_limit/cover%20image%20template%20-%204%20(2).jpg"
             }
           ]
         },
@@ -25,10 +31,22 @@
           "day": 2,
           "places": [
             {
-              "place_name": "City Palace",
-              "short_description": "A complex of courtyards, gardens and buildings, the City Palace is right in the centre of the Old City.",
-              "best_time_to_visit": "Afternoon",
-              "image_url": "https://images.unsplash.com/photo-1524230507669-5ff97982bb5e?auto=format&fit=crop&q=80&w=800"
+              "place_name": "Jantar Mantar",
+              "short_description": "Step into a surreal landscape of geometric celestial instruments that blend ancient astronomy with avant-garde architectural design.",
+              "best_time_to_visit": "11:00 AM - 1:00 PM",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jantar_Mantar_at_Jaipur.jpg/1280px-Jantar_Mantar_at_Jaipur.jpg"
+            },
+            {
+              "place_name": "Nahargarh Fort",
+              "short_description": "Perched on the Aravalli hills, this fort offers a cinematic panorama of the Pink City as it illuminates under a twilight sky.",
+              "best_time_to_visit": "5:00 PM - 7:00 PM",
+              "image_url": "https://www.fabhotels.com/blog/wp-content/uploads/2019/06/Nahargarh-fort_600.jpg"
+            },
+            {
+              "place_name": "Albert Hall Museum",
+              "short_description": "A masterpiece of Indo-Saracenic architecture that glows magnificently at night, housing a rich tapestry of Rajasthani history.",
+              "best_time_to_visit": "7:00 PM - 8:30 PM",
+              "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/albert-hall-museum-jaipur-rajasthan-5-attr-hero?qlt=82&ts=1742182386885"
             }
           ]
         },
@@ -36,10 +54,45 @@
           "day": 3,
           "places": [
             {
-              "place_name": "Nahargarh Fort",
-              "short_description": "Stands on the edge of the Aravalli Hills, overlooking the city of Jaipur.",
-              "best_time_to_visit": "Sunset",
-              "image_url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&q=80&w=800"
+              "place_name": "Jal Mahal",
+              "short_description": "A serene water palace floating amidst Man Sagar Lake, appearing like a mirage reflecting the rugged desert mountains.",
+              "best_time_to_visit": "7:00 AM - 9:00 AM",
+              "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/23/d3/66/caption.jpg?w=900&h=500&s=1"
+            },
+            {
+              "place_name": "Patrika Gate",
+              "short_description": "A vibrant walkway of colorful murals and arches that celebrate the artistic heritage and cultural soul of Rajasthan.",
+              "best_time_to_visit": "4:00 PM - 5:30 PM",
+              "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e1/ea/4e/img-20190310-085014-01.jpg?w=1200&h=-1&s=1"
+            },
+            {
+              "place_name": "Chokhi Dhani",
+              "short_description": "An immersive ethnic village experience featuring traditional dance, camel rides, and an authentic Rajasthani royal feast.",
+              "best_time_to_visit": "6:30 PM - 10:00 PM",
+              "image_url": "https://cdn.tripspoint.com/uploads/photos/16679/jaipur-chokhi-dhani-village-dinner-with-transfers-with-guide_CLi5m.png"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "places": [
+            {
+              "place_name": "Jal Mahal",
+              "short_description": "A serene water palace floating amidst Man Sagar Lake, appearing like a mirage reflecting the rugged desert mountains.",
+              "best_time_to_visit": "7:00 AM - 9:00 AM",
+              "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/23/d3/66/caption.jpg?w=900&h=500&s=1"
+            },
+            {
+              "place_name": "Patrika Gate",
+              "short_description": "A vibrant walkway of colorful murals and arches that celebrate the artistic heritage and cultural soul of Rajasthan.",
+              "best_time_to_visit": "4:00 PM - 5:30 PM",
+              "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e1/ea/4e/img-20190310-085014-01.jpg?w=1200&h=-1&s=1"
+            },
+            {
+              "place_name": "Chokhi Dhani",
+              "short_description": "An immersive ethnic village experience featuring traditional dance, camel rides, and an authentic Rajasthani royal feast.",
+              "best_time_to_visit": "6:30 PM - 10:00 PM",
+              "image_url": "https://cdn.tripspoint.com/uploads/photos/16679/jaipur-chokhi-dhani-village-dinner-with-transfers-with-guide_CLi5m.png"
             }
           ]
         }
@@ -51,19 +104,200 @@
             {
               "hotel_name": "Rambagh Palace",
               "area": "Bhawani Singh Road",
-              "why_good": "Former residence of the Maharaja of Jaipur."
+              "why_good": "Known as the 'Jewel of Jaipur', this former royal residence offers unmatched opulence and legendary hospitality."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "Samode Haveli",
+              "area": "Gangapole",
+              "why_good": "A traditional boutique heritage hotel featuring stunning frescoes and a serene courtyard pool."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "Zostel Jaipur",
+              "area": "Hawa Mahal Road",
+              "why_good": "A vibrant, traveler-favorite hostel perfectly located within walking distance of the Old City landmarks."
             }
           ]
         }
       ],
       "restaurants": [
         {
-          "category_name": "Traditional",
+          "category_name": "Local Traditional",
           "restaurants": [
             {
-              "restaurant_name": "Laxmi Mishthan Bhandar",
+              "restaurant_name": "Laxmi Misthan Bhandar (LMB)",
               "cuisine": "Rajasthani Thali",
-              "why_visit": "Authentic taste of Jaipur."
+              "why_visit": "Famous for its authentic Rajasthani Thali and Pyaaz Kachori in the heart of the Johari Bazaar."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "Bar Palladio",
+              "cuisine": "Italian / Fusion",
+              "why_visit": "An ultra-stylish blue-themed lounge that blends Italian aesthetics with Rajasthani royal decor."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "Rawat Misthan Bhandar",
+              "cuisine": "Indian Snacks",
+              "why_visit": "The ultimate destination for the world-famous Mawa Kachori and spicy Pyaaz Kachori."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Goa": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Goa",
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "Fort Aguada",
+              "short_description": "A 17th-century Portuguese fort standing tall against the Arabian Sea, offering panoramic coastal views and historic lighthouse charm.",
+              "best_time_to_visit": "9:00 AM - 11:00 AM",
+              "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/fort-aguada-goa-11-musthead-hero?qlt=82&ts=1742184865719"
+            },
+            {
+              "place_name": "Vagator Beach",
+              "short_description": "Admire the dramatic cliffs and the iconic rock carving of Shiva, while the turquoise waves crash against the golden sands.",
+              "best_time_to_visit": "4:00 PM - 6:00 PM",
+              "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/vagator-beach-goa-3-musthead-hero?qlt=82&ts=1742185883265"
+            },
+            {
+              "place_name": "Anjuna Flea Market",
+              "short_description": "A bohemian paradise filled with eclectic treasures, handcrafted jewelry, and the vibrant, free-spirited energy of old-school Goa.",
+              "best_time_to_visit": "6:00 PM - 8:00 PM",
+              "image_url": "https://www.tourmyindia.com/states/goa/image/anjuna-flea-market-goa.webp"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "Basilica of Bom Jesus",
+              "short_description": "A UNESCO World Heritage site and a masterpiece of Baroque architecture, housing the sacred remains of St. Francis Xavier.",
+              "best_time_to_visit": "10:00 AM - 12:00 PM",
+              "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/basilica-of-bom-jesus-goa-2-musthead-hero?qlt=82&ts=1742156651015"
+            },
+            {
+              "place_name": "Fontainhas Latin Quarter",
+              "short_description": "Wander through cobblestone streets lined with pastel-hued Portuguese villas, dripping with nostalgia and artistic soul.",
+              "best_time_to_visit": "3:00 PM - 5:00 PM",
+              "image_url": "https://www.tourmyindia.com/socialimg/fontainhas-latin-quarter-goa.jpg"
+            },
+            {
+              "place_name": "Panjim River Cruise",
+              "short_description": "Sail down the Mandovi River as the sun sets, accompanied by traditional Goan folk music and shimmering city lights.",
+              "best_time_to_visit": "6:30 PM - 7:30 PM",
+              "image_url": "https://www.trawell.in/admin/images/upload/106800333Panjim_River_Cruise_Main.jpg"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "Dudhsagar Falls",
+              "short_description": "Witness the 'Sea of Milk' cascading down the Western Ghats, an awe-inspiring jungle spectacle accessible by jeep safari.",
+              "best_time_to_visit": "8:00 AM - 1:00 PM",
+              "image_url": "https://7seasfly.com/wp-content/uploads/2023/12/wp11383171-dudhsagar-falls-wallpapers-1.jpg"
+            },
+            {
+              "place_name": "Palolem Beach",
+              "short_description": "A crescent-shaped paradise in South Goa, famous for its calm waters, coconut groves, and tranquil island vibes.",
+              "best_time_to_visit": "3:00 PM - 6:00 PM",
+              "image_url": "https://www.tourmyindia.com/states/goa/image/palolem-beach-banner.webp"
+            },
+            {
+              "place_name": "Silent Noise Club",
+              "short_description": "Experience the unique 'Silent Disco' culture under the starlit sky at Palolem, where the party lives through headphones.",
+              "best_time_to_visit": "9:00 PM - 12:00 AM",
+              "image_url": "https://content3.jdmagicbox.com/comp/goa/q1/0832px832.x832.170711120418.y2q1/catalogue/silent-noise-club-closed-down-palolem-goa-oqncfk6r1w.jpg"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "Taj Exotica Resort & Spa",
+              "area": "Benaulim",
+              "why_good": "Mediterranean-inspired luxury sprawling across 56 acres of lush gardens and a private beachfront."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "Fairfield by Marriott",
+              "area": "Anjuna",
+              "why_good": "Contemporary comfort with a trendy pool area, located close to North Goa’s best nightlife."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "The Hosteller Goa",
+              "area": "Vagator",
+              "why_good": "A stylish, social hostel with great amenities, perfect for digital nomads and solo travelers."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Local Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Mum's Kitchen",
+              "cuisine": "Goan Portuguese",
+              "why_visit": "Dedicated to preserving authentic family recipes, serving the best Fish Curry and Prawn Balchao."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "Thalassa",
+              "cuisine": "Greek / Mediterranean",
+              "why_visit": "Iconic cliff-top restaurant in Siolim offering breathtaking sunset views and vibrant fire shows."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "Vinayak Family Restaurant",
+              "cuisine": "Seafood Thali",
+              "why_visit": "A legendary local spot famous for its incredibly fresh and affordable Goan Fish Thali."
             }
           ]
         }
@@ -74,27 +308,1551 @@
     "3": {
       "type": "unified_travel_plan",
       "city": "Varanasi",
-      "itinerary": [],
-      "hotels": [],
-      "restaurants": []
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "Ganges Sunrise Boat Ride",
+              "short_description": "Gliding through the ethereal mist of the Ganges as the rising sun paints the ancient ghats in shades of saffron and gold.",
+              "best_time_to_visit": "5:30 AM - 7:00 AM",
+              "image_url": "https://res.klook.com/image/upload/w_750,h_469,c_fill,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/s6bh7galou2a7eti0tep.jpg"
+            },
+            {
+              "place_name": "Kashi Vishwanath Temple",
+              "short_description": "The spiritual heart of Hinduism, this 'Golden Temple' offers a profound experience of devotion and ancient Vedic energy.",
+              "best_time_to_visit": "9:00 AM - 11:00 AM",
+              "image_url": "https://experiencemyindia.com/wp-content/uploads/2024/11/Kashi-Vishwanath-Temple.jpg"
+            },
+            {
+              "place_name": "Ganga Aarti at Dashashwamedh",
+              "short_description": "A sensory spectacle of fire, bells, and chanting that creates a divine bridge between the earthly and the spiritual realms.",
+              "best_time_to_visit": "6:30 PM - 7:30 PM",
+              "image_url": "https://kashiyatra.in/wp-content/uploads/2023/10/dashashwamedh-ghat-evening-ganga-aarti.jpg"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "Sarnath",
+              "short_description": "The sacred deer park where Buddha first taught the Dharma, featuring the massive Dhamek Stupa and serene monasteries.",
+              "best_time_to_visit": "9:00 AM - 12:00 PM",
+              "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/sarnath-varanasi-uttar-pradesh-1-musthead-hero?qlt=82&ts=1727353653401"
+            },
+            {
+              "place_name": "Varanasi Narrow Lanes",
+              "short_description": "A labyrinthine journey through time, where every turn reveals hidden shrines, silk weavers, and the raw pulse of the city.",
+              "best_time_to_visit": "3:00 PM - 5:00 PM",
+              "image_url": "https://i0.wp.com/dnu1blog.com/wp-content/uploads/2022/05/varanasi-5150259_960_720.jpeg?fit=960%2C638&ssl=1"
+            },
+            {
+              "place_name": "Manikarnika Ghat",
+              "short_description": "Varanasi's most sacred cremation ground, offering a poignant and humbling perspective on the eternal cycle of life and death.",
+              "best_time_to_visit": "5:30 PM - 7:00 PM",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Manikarnika_Ghat%2C_Varanasi%2C_Uttar_Pradesh%2C_India_%282011%29_5.jpg"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "Assi Ghat",
+              "short_description": "The southernmost ghat where locals gather for 'Subah-e-Banaras' - a morning ritual of music, yoga, and classical singing.",
+              "best_time_to_visit": "5:00 AM - 7:30 AM",
+              "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/assi-ghat-varanasi-2-attr-hero?qlt=82&ts=1727353584207"
+            },
+            {
+              "place_name": "Ramnagar Fort",
+              "short_description": "A crumbling 18th-century riverside fortification that tells stories of kings and royal processions with its vintage museum.",
+              "best_time_to_visit": "10:30 AM - 1:30 PM",
+              "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/ramnagar-fort-varanasi-2-attr-hero?qlt=82&ts=1727353625755"
+            },
+            {
+              "place_name": "Banaras Hindu University (BHU)",
+              "short_description": "A sprawling green campus featuring the New Vishwanath Temple, offering a peaceful respite from the city's chaotic energy.",
+              "best_time_to_visit": "4:00 PM - 6:00 PM",
+              "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/banaras-hindu-university-varanasi-1-attr-hero?qlt=82&ts=1727353342043"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "BrijRama Palace",
+              "area": "Darbhanga Ghat",
+              "why_good": "A restored 18th-century palace right on the ghats, offering one of the most immersive heritage stays in India."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "Radisson Hotel Varanasi",
+              "area": "The Mall Road",
+              "why_good": "Modern luxury combined with traditional hospitality, located away from the bustle of the ghats."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "Zostel Varanasi",
+              "area": "Luxa Road",
+              "why_good": "A vibrant hostel with a great rooftop cafe, perfect for meeting fellow travelers and exploring the lanes."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Local Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Kashi Chat Bhandar",
+              "cuisine": "Varanasi Street Food",
+              "why_visit": "The ultimate destination for Tamatar Chat and Palak Chat - iconic flavors of the holy city."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "Pizzeria Vaatika Cafe",
+              "cuisine": "Italian / Desserts",
+              "why_visit": "Located at Assi Ghat, famous for its wood-fired pizzas and Apple Pie with Ice Cream."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "Blue Lassi Shop",
+              "cuisine": "Fruit Lassi",
+              "why_visit": "A tiny, world-famous shop serving 80+ varieties of hand-churned lassi topped with fresh fruits."
+            }
+          ]
+        }
+      ]
     }
   },
-  "Kerala": {
+  "Manali": {
     "3": {
       "type": "unified_travel_plan",
-      "city": "Kerala",
-      "itinerary": [],
-      "hotels": [],
-      "restaurants": []
+      "city": "Manali",
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "Solang Valley",
+              "short_description": "A snow-kissed paradise where adventure meets the sky through paragliding, skiing, and panoramic mountain vistas.",
+              "best_time_to_visit": "9:00 AM - 2:00 PM",
+              "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/b2/79/37/solang-valley-manali.jpg?w=900&h=500&s=1"
+            },
+            {
+              "place_name": "Hadimba Devi Temple",
+              "short_description": "An ancient wooden temple nestled in a cedar forest, exuding a mystical vibe that whispers tales of the Mahabharata.",
+              "best_time_to_visit": "3:00 PM - 4:30 PM",
+              "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/hidimba-temple-manali-himachal-pradesh-1-musthead-hero?qlt=82&ts=1726730732148"
+            },
+            {
+              "place_name": "Old Manali Streets",
+              "short_description": "A bohemian haunt filled with cozy cafes, vibrant murals, and a rustic charm that comes alive as the evening chill sets in.",
+              "best_time_to_visit": "6:00 PM - 9:00 PM",
+              "image_url": "https://discoverkullumanali.in/wp-content/uploads/2020/01/The-Mall-Road-of-Manali.jpg"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "Rohtang Pass",
+              "short_description": "A high-altitude gateway to the Lahaul Valley, where the ground is a permanent carpet of snow and the air is pure magic.",
+              "best_time_to_visit": "7:00 AM - 1:00 PM",
+              "image_url": "https://jannattravelguru.com/wp-content/uploads/2023/03/Rohtang-pass.webp"
+            },
+            {
+              "place_name": "Vashisht Hot Springs",
+              "short_description": "Natural thermal springs inside a traditional stone temple, perfect for a soothing dip after a long mountain trek.",
+              "best_time_to_visit": "3:30 PM - 5:00 PM",
+              "image_url": "https://manalitourism.co.in/images/places-to-visit/headers/hot-water-springs-at-vashisht-temple-manali-header-manali-tourism.jpg.jpg"
+            },
+            {
+              "place_name": "Beas River Side",
+              "short_description": "Sit by the roaring glacial river, where the sound of rushing water and the cold mountain breeze create a cinematic meditation.",
+              "best_time_to_visit": "5:30 PM - 7:00 PM",
+              "image_url": "https://experiencemyindia.com/wp-content/uploads/2024/11/Beas-River.jpg.webp"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "Jogini Waterfalls",
+              "short_description": "A scenic trek through apple orchards leads to a cascading waterfall that falls from high cliffs into a sacred pool.",
+              "best_time_to_visit": "9:00 AM - 12:00 PM",
+              "image_url": "https://manalitourism.co.in/images/places-to-visit/headers/jogini-waterfalls-manali-header-manali-tourism.jpg.jpg"
+            },
+            {
+              "place_name": "Naggar Castle",
+              "short_description": "A historic stone-and-wood castle built in the Kathkuni style, offering breathtaking views of the Kullu Valley.",
+              "best_time_to_visit": "2:00 PM - 4:30 PM",
+              "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/naggar-manali-himachal-pradesh-6-musthead-hero?qlt=82&ts=1726730642733"
+            },
+            {
+              "place_name": "Mall Road",
+              "short_description": "The bustling nerve center of Manali, perfect for evening strolls, woolen shopping, and local mountain snacks.",
+              "best_time_to_visit": "6:00 PM - 8:30 PM",
+              "image_url": "https://discoverkullumanali.in/wp-content/uploads/2020/01/Aerial-view-of-mall-road-of-Manali-town.jpg"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "Span Resort & Spa",
+              "area": "Kullu-Manali Highway",
+              "why_good": "Luxury riverside living with private river views and the best trout fishing experiences."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "Manu Allaya Resort",
+              "area": "Sunny Side",
+              "why_good": "A classic resort offering great Himalayan views and extensive spa facilities."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "Zostel Old Manali",
+              "area": "Old Manali",
+              "why_good": "A legendary backpacker hub situated in the heart of the cafe culture district."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Local Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Chopsticks",
+              "cuisine": "Tibetan / North Indian",
+              "why_visit": "Famous for its authentic Thukpa, Momos, and hearty mountain soups on Mall Road."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "Cafe 1947",
+              "cuisine": "Italian / Riverside",
+              "why_visit": "Manali's first music cafe, set right on the river bank with incredible pizza and burgers."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "Johnson’s Cafe",
+              "cuisine": "Continental / Trout",
+              "why_visit": "Renowned for its signature grilled Trout fish, caught fresh from the Beas River."
+            }
+          ]
+        }
+      ]
     }
   },
-  "Goa": {
+  "Shimla": {
     "3": {
       "type": "unified_travel_plan",
-      "city": "Goa",
-      "itinerary": [],
-      "hotels": [],
-      "restaurants": []
+      "city": "Shimla",
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "The Ridge & Mall Road",
+              "short_description": "The heart of the 'Queen of Hills', where neo-gothic architecture meets the misty charm of the Himalayan sunset.",
+              "best_time_to_visit": "4:00 PM - 7:30 PM",
+              "image_url": "https://himachalstory.com/wp-content/uploads/2018/07/Shimla-Tour-1.jpg"
+            },
+            {
+              "place_name": "Christ Church",
+              "short_description": "An iconic colonial landmark with stained glass windows that illuminates the ridge like a beacon of heritage.",
+              "best_time_to_visit": "9:00 AM - 11:00 AM",
+              "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/0f/81/d0/christ-church-shimla.jpg?w=900&h=500&s=1"
+            },
+            {
+              "place_name": "Jakhu Temple",
+              "short_description": "A spiritual climb through pine forests to reach the giant Hanuman statue, offering the highest viewpoint of Shimla.",
+              "best_time_to_visit": "7:00 AM - 9:00 AM",
+              "image_url": "https://shimlatourism.co.in/images/places-to-visit/headers/jakhu-temple-shimla-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "Kufri",
+              "short_description": "A high-altitude meadow offering pony rides through deodar forests and breathtaking views of the snow-capped peaks.",
+              "best_time_to_visit": "9:00 AM - 2:00 PM",
+              "image_url": "https://hblimg.mmtcdn.com/content/hubble/img/tvdestinationimages/mmt/activities/m_Kufri_tv_destination_img_1_l_666_1000.jpg"
+            },
+            {
+              "place_name": "Viceregal Lodge",
+              "short_description": "A grand Victorian-era mansion that witnessed the shaping of India's destiny, set amidst beautifully manicured lawns.",
+              "best_time_to_visit": "3:00 PM - 5:00 PM",
+              "image_url": "https://himalayasdigital.com/wp-content/uploads/2025/04/viceregal-lodge-shimla.webp"
+            },
+            {
+              "place_name": "Toy Train Ride (Kalka-Shimla)",
+              "short_description": "A UNESCO World Heritage railway journey through 103 tunnels and over fairy-tale bridges overlooking the deep valleys.",
+              "best_time_to_visit": "8:00 AM - 12:00 PM",
+              "image_url": "https://weareglobaltravellers.com/wp-content/uploads/2025/04/A-guide-to-the-Kalka-to-Shimla-Toy-Train-India-We-Are-Global-Travellers-47.jpg"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "Annandale",
+              "short_description": "A historic playground and army museum set in a deep green valley, once the center of British high-society sports.",
+              "best_time_to_visit": "10:00 AM - 1:00 PM",
+              "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/5b/f6/c3/20180821-122945-largejpg.jpg?w=900&h=500&s=1"
+            },
+            {
+              "place_name": "Tara Devi Temple",
+              "short_description": "Perched on a hill top, this temple offers a serene spiritual experience with 360-degree views of the mountain ranges.",
+              "best_time_to_visit": "2:00 PM - 4:30 PM",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tara_Devi_temple_Shimla.jpg"
+            },
+            {
+              "place_name": "Chail",
+              "short_description": "A short drive from Shimla leads to this quiet retreat, home to the world's highest cricket ground and a regal palace.",
+              "best_time_to_visit": "10:00 AM - 5:00 PM",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chailhill.jpg"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "Wildflower Hall, An Oberoi Resort",
+              "area": "Chharabra",
+              "why_good": "Located at 8,250 ft, this resort offers a fairytale experience with an infinity whirlpool overlooking the Himalayas."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "Radisson Jass Shimla",
+              "area": "Goodwood Estate",
+              "why_good": "Offers spectacular valley views and modern comforts within easy reach of the Mall Road."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "Thistle Lodge",
+              "area": "Near Viceregal Lodge",
+              "why_good": "A charming boutique stay with warm hospitality and panoramic views of the hills."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Local Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Sita Ram & Sons",
+              "cuisine": "Himachali / North Indian",
+              "why_visit": "Famous for their Chole Bhature and traditional Himachali siddu, a local favorite for generations."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "Wake & Bake Cafe",
+              "cuisine": "French / Italian",
+              "why_visit": "A cozy, colorful cafe on the Mall Road known for its great coffee, hummus, and sunset views."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "The Cecil Restaurant",
+              "cuisine": "Fine Dining / Continental",
+              "why_visit": "Experience colonial fine dining in a wood-paneled hall that evokes the grandeur of the British Raj."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Karnal": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Karnal",
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "Karna Lake",
+              "short_description": "Named after the legendary Karna of Mahabharata, this serene lake is perfect for a morning boat ride amidst lush green embankments.",
+              "best_time_to_visit": "7:00 AM - 9:00 AM",
+              "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/d1/19/a0/karna-lake-tourist-resort.jpg?w=900&h=500&s=1"
+            },
+            {
+              "place_name": "Cantonment Church Tower",
+              "short_description": "A striking 35-meter tall remnant of the British era, this tower stands as a solitary witness to the town's colonial past.",
+              "best_time_to_visit": "11:00 AM - 12:30 PM",
+              "image_url": "https://exploreouting.com/images/poi_images/ATTR_571_1497447755_1.jpg"
+            },
+            {
+              "place_name": "Atal Park",
+              "short_description": "Relax in one of the largest parks in Haryana, featuring a beautiful lake, open-air gym, and a majestic musical fountain show at dusk.",
+              "best_time_to_visit": "5:30 PM - 7:30 PM",
+              "image_url": "https://www.exploreouting.com/images/poi_images/ATTR_569_1497447719_1.jpg"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "Kalander Shah's Tomb",
+              "short_description": "An architectural marvel in marble, built by Emperor Ghias-ud-din, dedicated to the famous Sufi saint Bo-Ali-Shah Qalandar.",
+              "best_time_to_visit": "10:00 AM - 12:00 PM",
+              "image_url": "https://haryanatourism.gov.in/wp-content/uploads/2024/07/kalander_pic2.jpg"
+            },
+            {
+              "place_name": "Taraori Sarai",
+              "short_description": "Explore the ruins of a medieval inn where historical battles were fought, and royal travelers once rested on the Grand Trunk Road.",
+              "best_time_to_visit": "2:30 PM - 4:30 PM",
+              "image_url": "https://haryanatourism.gov.in/wp-content/uploads/2024/07/pinjore_pic.jpg"
+            },
+            {
+              "place_name": "Pukka Pul",
+              "short_description": "A historic bridge over the canal known for its spiritual significance, where locals gather to offer prayers and light lamps.",
+              "best_time_to_visit": "6:00 PM - 7:30 PM",
+              "image_url": "https://files.yappe.in/place/full/pakka-pull-pir-dargah-8469348.webp"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "NDRI (National Dairy Research Institute)",
+              "short_description": "Take a guided tour of India's premier dairy research hub, sprawling with verdant farms and world-class scientific facilities.",
+              "best_time_to_visit": "10:00 AM - 1:00 PM",
+              "image_url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30"
+            },
+            {
+              "place_name": "Miran Sahib’s Tomb",
+              "short_description": "A site dedicated to a brave warrior, this tomb tells a story of valor and sacrifice amidst the historical tapestry of Karnal.",
+              "best_time_to_visit": "3:00 PM - 4:30 PM",
+              "image_url": "https://images.unsplash.com/photo-1581447100595-3a81f33334b0"
+            },
+            {
+              "place_name": "Sector 12 Market",
+              "short_description": "End your trip with some premium shopping and experience the modern lifestyle pulse of this historic city.",
+              "best_time_to_visit": "6:00 PM - 9:00 PM",
+              "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "Noormahal Palace Hotel",
+              "area": "Sector 32",
+              "why_good": "A grand five-star hotel built in a fusion of Rajasthani and Mughal architecture, offering a truly royal experience."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "The Royal Paradise",
+              "area": "G.T. Road",
+              "why_good": "Comfortable boutique hotel with excellent service, perfect for families visiting the historical sites."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Gopinath",
+              "area": "Main Market",
+              "why_good": "A long-standing favorite for budget travelers, known for its cleanliness and central location."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Local Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Amrit Sweets",
+              "cuisine": "North Indian / Mithai",
+              "why_visit": "The most famous spot in Karnal for Chole Bhature and authentic Indian desserts since 1955."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "Cafe Rooftop",
+              "cuisine": "Global / Cafe",
+              "why_visit": "Enjoy a panoramic view of the city skyline with artisan coffee and gourmet burgers."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "The Frontier",
+              "cuisine": "Mughlai",
+              "why_visit": "Located inside Noormahal, it offers the finest Dal Makhani and Kebabs in all of Haryana."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Kurukshetra": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Kurukshetra",
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "Brahma Sarovar",
+              "short_description": "A celestial expanse of water where the sky meets history; witness the ethereal reflection of the setting sun on one of Asia's largest man-made sacred tanks.",
+              "best_time_to_visit": "5:30 PM - 7:30 PM",
+              "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhukQkdV5i3Fk9di_qtYk38ui21rYdBcnJNwffT13Fo6QBQDec09bR-8sAemY9obvzKfyFJngz1DQaT3We3csEBF3TRtPDVtgiUL9Th8FNGkxlxfUN1RotEPMWeM69G2VifOsyvvMCNfdU/s1600/Migratory+Birds.JPG"
+            },
+            {
+              "place_name": "Jyotisar",
+              "short_description": "The mystical birthplace of the Bhagavad Gita, where an ancient banyan tree stands as a silent witness to the divine discourse between Krishna and Arjuna.",
+              "best_time_to_visit": "10:00 AM - 12:00 PM",
+              "image_url": "https://haryanatourism.gov.in/wp-content/uploads/2024/07/jyotisar_3.jpg"
+            },
+            {
+              "place_name": "Kurukshetra Panorama & Science Centre",
+              "short_description": "An architectural marvel housing a 3D panorama that dramatically depicts the epic Mahabharata battle, blending ancient lore with modern visual artistry.",
+              "best_time_to_visit": "2:00 PM - 4:00 PM",
+              "image_url": "https://kpsc.nscd.gov.in/wp-content/themes/kuru_museum/img/home-slider/Kuruk4.jpg"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "Sheikh Chilli's Tomb",
+              "short_description": "A poetic masterpiece in Persian architecture, this cream-colored marble tomb features intricate carvings and lush Mughal gardens that evoke a sense of timeless peace.",
+              "best_time_to_visit": "9:00 AM - 11:00 AM",
+              "image_url": "https://www.theislamicheritage.com/uploads/submission_images/791_IMG_20220821_184427.JPG"
+            },
+            {
+              "place_name": "Bhadrakali Temple",
+              "short_description": "One of the 51 Shakti Peethas, this sacred shrine is a vibrant tapestry of faith where pilgrims offer marble horses to fulfill their deepest wishes.",
+              "best_time_to_visit": "4:00 PM - 5:30 PM",
+              "image_url": "https://temple.yatradham.org/public/Product/temple/temple_yW0yi7yj_202507021508520.webp"
+            },
+            {
+              "place_name": "Sannihit Sarovar",
+              "short_description": "The sacred confluence of seven holy rivers, this tranquil lake is believed to be the ultimate site for spiritual liberation and ancestral blessings.",
+              "best_time_to_visit": "6:00 PM - 7:30 PM",
+              "image_url": "https://i.pinimg.com/736x/ea/60/02/ea600289f7fe9cb14d520d7225252a41.jpg"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "Krishna Museum",
+              "short_description": "A cultural treasure trove showcasing the multifaceted personality of Lord Krishna through exquisite stone sculptures, bronze castings, and miniature paintings.",
+              "best_time_to_visit": "10:00 AM - 1:00 PM",
+              "image_url": "https://haryanatourism.gov.in/wp-content/uploads/2024/07/shri_krishna_museum_1.jpg"
+            },
+            {
+              "place_name": "Bhishma Kund",
+              "short_description": "A historic site marking where Bhishma Pitamah lay on the bed of arrows; a deep stepwell that tells the story of duty and ultimate sacrifice.",
+              "best_time_to_visit": "3:00 PM - 4:30 PM",
+              "image_url": "https://thumbs.dreamstime.com/z/bhishma-kund-kurukshetra-haryana-india-sculptures-bhishma-pitamaha-laying-bed-arrows-created-arjuna-bhishma-264504924.jpg"
+            },
+            {
+              "place_name": "Raja Harsh Ka Tila",
+              "short_description": "Walk through the archaeological remains of the capital of Emperor Harshavardhana, offering a panoramic view into India's 7th-century administrative glory.",
+              "best_time_to_visit": "4:30 PM - 6:00 PM",
+              "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/67/76/12/museum-must-visit-not.jpg?w=1200&h=-1&s=1"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "Noormahal Palace Hotel (Nearby)",
+              "area": "Karnal-Kurukshetra Highway",
+              "why_good": "A grand heritage palace offering a royal Rajputana experience with opulent suites and world-class hospitality."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Saffron",
+              "area": "Pipli Road",
+              "why_good": "Modern comfort with elegant interiors, known for its impeccable service and proximity to the highway."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Pearl Marc",
+              "area": "Railway Road",
+              "why_good": "Comfortable and efficient, providing travelers with a central base to explore the city's ancient sites."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Local Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Sagar Ratna",
+              "cuisine": "North Indian Thali",
+              "why_visit": "Famous for its hearty Punjabi Thali and clean, family-friendly atmosphere near the Brahma Sarovar."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "The Haveli",
+              "cuisine": "Fusion / Snacks",
+              "why_visit": "A rustic, heritage-themed space offering artisan coffee and traditional butter-soaked Parathas."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "Gulab Sweets",
+              "cuisine": "Indian Desserts",
+              "why_visit": "The ultimate destination for Gajar Ka Halwa and Kurukshetra’s famous Ghevar."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Jind": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Jind",
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "Rani Talab",
+              "short_description": "A historic royal pond inspired by the Golden Temple of Amritsar, featuring a serene temple at its center that glows beautifully at dawn.",
+              "best_time_to_visit": "6:30 AM - 8:30 AM",
+              "image_url": "https://cdnbbsr.s3waas.gov.in/s3eb76c035d5d0a2bd2a0d0834b93c9c26/uploads/2022/07/2022072061-1.jpg"
+            },
+            {
+              "place_name": "Bhuteshwar Temple",
+              "short_description": "Dedicated to Lord Shiva, this temple is the spiritual crown of Jind, surrounded by the tranquil waters of the Rani Talab.",
+              "best_time_to_visit": "10:00 AM - 11:30 AM",
+              "image_url": "https://48koskurukshetra.com/wp-content/uploads/2017/11/84-scaled.jpg"
+            },
+            {
+              "place_name": "Pandu Pindara",
+              "short_description": "A sacred site where the Pandavas are said to have offered prayers for their ancestors; a place of deep cultural resonance and calm.",
+              "best_time_to_visit": "4:00 PM - 6:00 PM",
+              "image_url": "https://theaarchnews.com/wp-content/uploads/2025/08/IMG20250505133817-1024x768.jpg"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "Ramrai",
+              "short_description": "An ancient village housing a holy tank where Lord Parshuram is believed to have performed Vedic rituals, exuding a rustic spiritual charm.",
+              "best_time_to_visit": "9:00 AM - 11:00 AM",
+              "image_url": "https://haryanatourism.gov.in/wp-content/uploads/2024/07/RAMRAI_PIC.jpeg"
+            },
+            {
+              "place_name": "Safidon (Nagakshetra)",
+              "short_description": "The site of the legendary serpent sacrifice, featuring ancient temples and a historical aura that captures the mystery of the Mahabharata.",
+              "best_time_to_visit": "12:00 PM - 2:30 PM",
+              "image_url": "https://st2.indiarailinfo.com/kjfdsuiemjvcya1/0/1/8/0/3221180/0/screenshot201803201356371205636.jpg"
+            },
+            {
+              "place_name": "Dhamtan Sahib Gurudwara",
+              "short_description": "A grand fort-like Gurudwara commemorating Guru Tegh Bahadur’s journey, standing as a symbol of courage and hospitality.",
+              "best_time_to_visit": "5:00 PM - 7:00 PM",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Gurdwara_dhamtan_sahib.jpg"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "Jayanti Devi Temple",
+              "short_description": "Built in honor of the Goddess of Victory, this temple sits on an elevated mound offering views of the sprawling city landscape.",
+              "best_time_to_visit": "8:00 AM - 10:00 AM",
+              "image_url": "https://cdn.s3waas.gov.in/s3218a0aefd1d1a4be65601cc6ddc1520e/uploads/bfi_thumb/2018031344-olw7dqiysadz5ulf0s89dcg50ontl74bs2914997d6.jpg"
+            },
+            {
+              "place_name": "Jind Fort Ruins",
+              "short_description": "Walk through the remnants of the once-mighty Jind fortification, where crumbling walls tell stories of the Sikh Rajas of the 18th century.",
+              "best_time_to_visit": "3:00 PM - 4:30 PM",
+              "image_url": "https://content.jdmagicbox.com/v2/comp/jind/d9/9999p1681.1681.230831073433.j8d9/catalogue/safidon-fort-safidon-jind-tourist-attraction-yl1vewbfoi.jpg"
+            },
+            {
+              "place_name": "Local Grain Market (Mandi)",
+              "short_description": "Experience the pulse of rural Haryana at one of the state's largest grain markets, a cinematic display of local life and commerce.",
+              "best_time_to_visit": "5:30 PM - 7:30 PM",
+              "image_url": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2023/09/28/dbcl_169581694165141ced1d82c_27j34.jpg"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "Hotel River View",
+              "area": "Patiala Road",
+              "why_good": "The most premium accommodation in Jind, offering refined luxury and the best views of the city's canals."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Radhika Plaza",
+              "area": "Gohana Road",
+              "why_good": "Centrally located with modern rooms, catering perfectly to business travelers and families."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Sunder Plaza",
+              "area": "Main Market",
+              "why_good": "An affordable and clean stay that puts you right in the heart of Jind’s cultural and shopping district."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Local Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Haryanvi Zaika",
+              "cuisine": "Haryanvi Thali",
+              "why_visit": "Authentic local flavors featuring Bajra Khichdi, homemade white butter, and spicy garlic chutney."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "The Urban Lounge",
+              "cuisine": "Continental",
+              "why_visit": "A chic getaway for youth, serving gourmet pizzas and the best thick shakes in Jind."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "Jindal Ki Kachori",
+              "cuisine": "Indian Street Food",
+              "why_visit": "A local institution famous for its crispy, spice-filled kachoris served with tangy potato curry."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Hisar": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Hisar",
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "Firoz Shah Palace & Complex",
+              "short_description": "A magnificent Tughlaq-era fortification built in 1354, featuring secret tunnels and a grand mosque made of ancient sandstone.",
+              "best_time_to_visit": "9:00 AM - 11:30 AM",
+              "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fd/3a/67/firoz-shah-palace-complex.jpg?w=1200&h=-1&s=1"
+            },
+            {
+              "place_name": "Gujri Mahal",
+              "short_description": "A monument of love built by Firoz Shah for his beloved Gujri; an architectural gem with elegant arches and a storied past.",
+              "best_time_to_visit": "12:00 PM - 1:30 PM",
+              "image_url": "https://as1.ftcdn.net/jpg/04/37/65/96/1000_F_437659650_OMm919RHrXCDFVYyaRlX2u8CymtCUkpi.jpg"
+            },
+            {
+              "place_name": "Town Park",
+              "short_description": "The green heart of Hisar, featuring a towering National Flag and beautifully manicured gardens that come alive at sunset.",
+              "best_time_to_visit": "5:30 PM - 7:30 PM",
+              "image_url": "https://content3.jdmagicbox.com/v2/comp/hissar/x5/9999p1662.1662.170603131601.p9x5/catalogue/town-park-police-line-area-hissar-parks-u5837z6rjn.jpg"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "Agroha Dham",
+              "short_description": "A massive and majestic temple complex dedicated to Goddess Mahalaxmi, representing the heritage of the Agrawal community.",
+              "best_time_to_visit": "10:00 AM - 1:00 PM",
+              "image_url": "https://temple.yatradham.org/public/Product/temple/temple_ATRdT9nc_202507141627130.webp"
+            },
+            {
+              "place_name": "Blue Bird Lake",
+              "short_description": "A peaceful lake on the outskirts of Hisar, perfect for bird watching and a quiet morning boat ride amidst migratory birds.",
+              "best_time_to_visit": "7:30 AM - 9:30 AM",
+              "image_url": "https://hblimg.mmtcdn.com/content/hubble/img/ttd_images/mmt/activities/m_Hisar_Blue_bird_lake_2_l_337_640.jpg"
+            },
+            {
+              "place_name": "Deer Park",
+              "short_description": "Observe majestic blackbucks and spotted deer in their natural habitat, offering a cinematic look at Haryana's wildlife.",
+              "best_time_to_visit": "4:00 PM - 5:30 PM",
+              "image_url": "https://mytrip.guide/wp-content/uploads/2020/09/Deer-Park-Hissar.jpg"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "OP Jindal Knowledge Centre",
+              "short_description": "A modern architectural landmark featuring a high observation tower that offers a breathtaking panoramic view of the city.",
+              "best_time_to_visit": "11:00 AM - 1:00 PM",
+              "image_url": "https://vushii.com/uploads/2111728538_OP%20Jindal%20Gyan%20Kendra.jpg"
+            },
+            {
+              "place_name": "Asirgarh Fort (Hansi)",
+              "short_description": "A short drive to Hansi reveals this ancient fort, also known as Prithviraj Chauhan's fort, standing as a sentinel of history.",
+              "best_time_to_visit": "2:30 PM - 4:30 PM",
+              "image_url": "https://hblimg.mmtcdn.com/content/hubble/img/ttd_images/mmt/activities/m_Hisar_Asirgarh_fort_1_l_344_640.jpg"
+            },
+            {
+              "place_name": "Hisar Metal Market",
+              "short_description": "The largest stainless steel market in India; experience the industrial power and metallic hum of Hisar's economic engine.",
+              "best_time_to_visit": "5:30 PM - 7:30 PM",
+              "image_url": "https://www.hisarmetal.com/images/cold-rolled.jpg"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "MG Heritage Hotel",
+              "area": "Model Town",
+              "why_good": "Exquisite heritage-style architecture combined with high-end luxury, making it the finest stay in the city."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "The Midtown Grand",
+              "area": "Delhi Road",
+              "why_good": "A favorite for business travelers, offering contemporary rooms and a world-class conference facility."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Shanti India",
+              "area": "Railway Road",
+              "why_good": "Simple, clean, and reliable; an ideal spot for backpackers exploring the Tughlaq ruins."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Local Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Karnail Singh Dhaba",
+              "cuisine": "North Indian / Punjabi",
+              "why_visit": "Legendary for its Dal Makhani and Tandoori Roti that captures the true essence of Highway food."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "Cafe Bogchi",
+              "cuisine": "Global / Italian",
+              "why_visit": "The trendiest cafe in town, famous for its rustic decor and artisanal thin-crust pizzas."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "Bikaner Sweets",
+              "cuisine": "Indian Snacks",
+              "why_visit": "Must-visit for Hisar's famous 'Raj Kachori' and the most authentic milk cakes in the region."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Faridabad": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Faridabad",
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "Surajkund Lake",
+              "short_description": "An ancient 10th-century reservoir built against the backdrop of the Aravali hills, famously hosting the world's largest crafts fair.",
+              "best_time_to_visit": "7:00 AM - 9:30 AM",
+              "image_url": "https://haryanatourism.gov.in/wp-content/uploads/2024/07/surajkund1.jpg"
+            },
+            {
+              "place_name": "Raja Nahar Singh Palace",
+              "short_description": "An 18th-century heritage palace featuring beautiful pavilions and courtyards that display the grandeur of the Jat kings.",
+              "best_time_to_visit": "11:00 AM - 2:00 PM",
+              "image_url": "https://haryanatourism.gov.in/wp-content/uploads/2024/07/nahar_pic3.jpg"
+            },
+            {
+              "place_name": "Badkhal Lake Walk",
+              "short_description": "A scenic walkway along the historic lake area, perfect for catching a golden sunset over the rugged Aravali terrain.",
+              "best_time_to_visit": "5:30 PM - 7:00 PM",
+              "image_url": "https://content3.jdmagicbox.com/comp/faridabad/p5/011pxx11.xx11.141218114652.k7p5/catalogue/badkhal-lake-badkhal-faridabad-tourist-attraction-pd2s8zwojj.jpg"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "Dhauj Lake",
+              "short_description": "A hidden gem for adventure seekers, offering dramatic rock formations and a tranquil lakeside vibe perfect for camping and climbing.",
+              "best_time_to_visit": "8:00 AM - 12:00 PM",
+              "image_url": "https://i.pinimg.com/736x/b0/ff/77/b0ff777071c475a759129519f432d69e.jpg"
+            },
+            {
+              "place_name": "CITM Lake",
+              "short_description": "A stunning, deep blue quarry lake nestled within the Aravalis, offering a cinematic landscape rarely found near industrial hubs.",
+              "best_time_to_visit": "3:00 PM - 5:00 PM",
+              "image_url": "https://static.wixstatic.com/media/18edb7_d5d22b6cb1184c8baa9198ed4c421682~mv2.png/v1/fill/w_560,h_318,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.png"
+            },
+            {
+              "place_name": "Shirdi Sai Baba Temple",
+              "short_description": "A sprawling marble temple known for its divine vibrations and magnificent evening light shows.",
+              "best_time_to_visit": "6:00 PM - 8:00 PM",
+              "image_url": "https://image-worker.mindtrip.ai/image-resize/format=webp,w=720/https:/images.mindtrip.ai/attractions/34e4/1b3a/af1d/02ed/d092/0165/c5fd/60ce"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "Aravali Golf Course",
+              "short_description": "A lush, emerald-green sprawling golf course designed by Stephen Kay, offering a high-end leisure experience amidst nature.",
+              "best_time_to_visit": "9:00 AM - 12:00 PM",
+              "image_url": "https://haryanatourism.gov.in/wp-content/uploads/2024/07/arav_image_pic1-1.jpg"
+            },
+            {
+              "place_name": "Rose Garden",
+              "short_description": "A meticulously curated garden housing hundreds of rose varieties, making it a paradise for photographers and nature lovers.",
+              "best_time_to_visit": "4:00 PM - 5:30 PM",
+              "image_url": "https://d2kihw5e8drjh5.cloudfront.net/eyJidWNrZXQiOiJ1dGEtaW1hZ2VzIiwia2V5IjoicGxhY2VfaW1nLzZkNmE4N2E5YzQzMDQ5OWNhNDRlYzIzY2NmODIzZWRkIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2NDAsImhlaWdodCI6NjQwLCJmaXQiOiJpbnNpZGUifSwicm90YXRlIjpudWxsLCJ0b0Zvcm1hdCI6ICJ3ZWJwIn19"
+            },
+            {
+              "place_name": "Sector 15 Market",
+              "short_description": "The high-end shopping and dining soul of Faridabad, where the city’s modern lifestyle shines under the evening lights.",
+              "best_time_to_visit": "7:00 PM - 9:30 PM",
+              "image_url": "https://www.mappls.com/place/P0000044505_2.jpg"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "Vivanta Surajkund",
+              "area": "Surajkund",
+              "why_good": "Eco-luxury retreat with an award-winning spa and an infinity pool that overlooks the ancient reservoir."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "Radisson Blu Faridabad",
+              "area": "Mathura Road",
+              "why_good": "Sophisticated modern design and centrally located, perfect for those wanting to balance business and leisure."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "Ginger Faridabad",
+              "area": "NIT",
+              "why_good": "Reliable, smart, and efficient; a perfect budget option for the practical traveler."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Local Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Silverspoon",
+              "cuisine": "Indian Fine Dine",
+              "why_visit": "Elegant setting famous for its traditional Dal Baluchi and melt-in-the-mouth Galouti Kebabs."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "The Joint Cafe",
+              "cuisine": "Gourmet Burgers",
+              "why_visit": "Legendary in the NCR region for its massive, juicy burgers and classic retro-vibe interiors."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "Sector 16 Street Food Lane",
+              "cuisine": "Street Food Fusion",
+              "why_visit": "Must-visit for Faridabad's famous 'Kurkure Momos' and the city's best Tandoori Soya Chaap."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Sonipat": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Sonipat",
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "Khwaja Khizr Tomb",
+              "short_description": "An exquisite Lodi-era tomb made of red sandstone, standing as one of the finest examples of Pathan architecture in North India.",
+              "best_time_to_visit": "9:30 AM - 11:30 AM",
+              "image_url": "https://images.unsplash.com/photo-1585123334904-845d60e97b29"
+            },
+            {
+              "place_name": "Murthal Dhaba Mile",
+              "short_description": "The ultimate highway food experience; watch the sunrise over steaming hot Tandoori Parathas topped with mountains of white butter.",
+              "best_time_to_visit": "7:00 AM - 9:00 AM",
+              "image_url": "https://images.unsplash.com/photo-1516594798947-e65505dbb29d"
+            },
+            {
+              "place_name": "Badkhalsa Memorial",
+              "short_description": "A soulful museum dedicated to the sacrifice of Bhai Kushal Singh, showcasing the deep-rooted Sikh heritage of the region.",
+              "best_time_to_visit": "4:00 PM - 6:00 PM",
+              "image_url": "https://images.unsplash.com/photo-1598971861713-54ad16a7e72e"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "O.P. Jindal Global University Architecture",
+              "short_description": "A world-class campus that blends futuristic design with academic excellence; a vision of modern India's architectural growth.",
+              "best_time_to_visit": "11:00 AM - 1:00 PM",
+              "image_url": "https://images.unsplash.com/photo-1562215160-c9f289894420"
+            },
+            {
+              "place_name": "Ethnic India",
+              "short_description": "A cultural park on the highway that brings the diverse heritage, food, and arts of rural India into one vibrant complex.",
+              "best_time_to_visit": "3:00 PM - 5:30 PM",
+              "image_url": "https://images.unsplash.com/photo-1534850336045-c6c6d287f89e"
+            },
+            {
+              "place_name": "Jurasik Park Inn",
+              "short_description": "A giant dinosaur-themed park offering high-adrenaline water rides and a cinematic prehistoric landscape for the family.",
+              "best_time_to_visit": "6:00 PM - 8:30 PM",
+              "image_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "Yatindra Nagar",
+              "short_description": "Experience the traditional lifestyle and lush green farmlands that have made Sonipat a historical agricultural powerhouse.",
+              "best_time_to_visit": "7:30 AM - 9:30 AM",
+              "image_url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef"
+            },
+            {
+              "place_name": "Local Industrial Corridor",
+              "short_description": "Take a drive through the 'Sports City of India', observing the massive infrastructure that supports global Olympic champions.",
+              "best_time_to_visit": "2:30 PM - 4:30 PM",
+              "image_url": "https://images.unsplash.com/photo-1516594798947-e65505dbb29d"
+            },
+            {
+              "place_name": "TDI Mall & Nightlife",
+              "short_description": "End the journey at the city's modern shopping hub, where contemporary glass architecture meets the vibrant energy of Sonipat's youth.",
+              "best_time_to_visit": "6:30 PM - 9:30 PM",
+              "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "The Utsav Grand",
+              "area": "G.T. Road",
+              "why_good": "Premium banquets and luxurious suites that offer a high-end oasis along the busy Delhi-Chandigarh highway."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Cozee",
+              "area": "TDI City",
+              "why_good": "Modern boutique stay offering chic interiors and excellent dining options within the city limits."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Dewan Palace",
+              "area": "Main Market",
+              "why_good": "A trusted budget choice for travelers, known for its warm hospitality and proximity to the railway station."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Local Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Amrik Sukhdev",
+              "cuisine": "Indian Highway Dhaba",
+              "why_visit": "World-famous for its 'Paneer Stuffed Parathas' and being the ultimate pit-stop for every highway traveler."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "Cafe 7",
+              "cuisine": "Continental / Fusion",
+              "why_visit": "A minimalist, modern cafe serving artisanal coffee and gourmet appetizers to the student crowd."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "Garam Dharam",
+              "cuisine": "Punjabi Heritage",
+              "why_visit": "A Bollywood-themed dhaba dedicated to actor Dharmendra, offering the most rustic and flavorful North Indian meals."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Kaithal": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Kaithal",
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "Tomb of Razia Sultana",
+              "short_description": "Visit the final resting place of the first female ruler of Delhi; a historic brick monument steeped in the legends of the Mamluk dynasty.",
+              "best_time_to_visit": "10:00 AM - 12:00 PM",
+              "image_url": "https://images.unsplash.com/photo-1585123334904-845d60e97b29"
+            },
+            {
+              "place_name": "Vidkyar Lake",
+              "short_description": "A serene local lake where history meets recreation; ideal for a quiet afternoon stroll among the ruins of ancient ghats.",
+              "best_time_to_visit": "3:00 PM - 5:00 PM",
+              "image_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+            },
+            {
+              "place_name": "Gurudwara Neem Sahib",
+              "short_description": "A peaceful shrine dedicated to Guru Tegh Bahadur, known for its sacred neem tree and vibrant spiritual energy.",
+              "best_time_to_visit": "6:00 PM - 7:30 PM",
+              "image_url": "https://images.unsplash.com/photo-1598971861713-54ad16a7e72e"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "Phalgu Tirtha",
+              "short_description": "Located in nearby Pharal village, this sacred tank is mentioned in the Mahabharata and is the site of deep-rooted local rituals.",
+              "best_time_to_visit": "8:00 AM - 10:30 AM",
+              "image_url": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc"
+            },
+            {
+              "place_name": "Anjani Mata Temple",
+              "short_description": "Dedicated to the mother of Lord Hanuman, this temple is built on an ancient mound and offers a soulful cultural experience.",
+              "best_time_to_visit": "11:30 AM - 1:00 PM",
+              "image_url": "https://images.unsplash.com/photo-1618173745822-aa468fb81432"
+            },
+            {
+              "place_name": "Kaithal Fort Ruins",
+              "short_description": "Explore the remaining bastions of the Kaithal fortification, which tell stories of the Bhai dynasty and the Marathas.",
+              "best_time_to_visit": "4:00 PM - 6:00 PM",
+              "image_url": "https://images.unsplash.com/photo-1548013146-72479768bbaa"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "Gita Mandir",
+              "short_description": "A modern and beautifully maintained temple dedicated to the Bhagavad Gita, reflecting the region's Vedic heritage.",
+              "best_time_to_visit": "9:00 AM - 11:00 AM",
+              "image_url": "https://images.unsplash.com/photo-1624783353450-48e028169956"
+            },
+            {
+              "place_name": "Saraswati River Front",
+              "short_description": "The revitalized riverfront provides a scenic promenade for locals and travelers to experience the river's mythical legacy.",
+              "best_time_to_visit": "4:00 PM - 6:00 PM",
+              "image_url": "https://images.unsplash.com/photo-1542332213-9b5a5a3fab35"
+            },
+            {
+              "place_name": "Local Kaithal Bazaar",
+              "short_description": "Dive into the heart of the city for authentic Haryanvi juttis, agricultural tools, and local spices.",
+              "best_time_to_visit": "6:30 PM - 8:30 PM",
+              "image_url": "https://images.unsplash.com/photo-1516594798947-e65505dbb29d"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Divine",
+              "area": "Ambala Road",
+              "why_good": "The most modern and premium property in the city, offering upscale banquet facilities and refined suites."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Heritage",
+              "area": "Main City",
+              "why_good": "Known for its clean rooms and proximity to the historic sites of Razia Sultana's tomb."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Midtown",
+              "area": "Near Bus Stand",
+              "why_good": "A practical and centrally located option for solo travelers and business visitors."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Local Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Haryanvi Tadka",
+              "cuisine": "North Indian",
+              "why_visit": "Famous for its authentic Bajra Khichdi and spicy local curries that define Haryana's palate."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "Brew Bakes",
+              "cuisine": "Coffee / Global",
+              "why_visit": "A modern chain cafe providing a familiar urban vibe with great lattes and snacks."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "Bikanervala Kaithal",
+              "cuisine": "Sweets / Snacks",
+              "why_visit": "The ultimate destination for hygiene and taste, famous for its Raj Kachori and traditional desserts."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Pehowa": {
+    "3": {
+      "type": "unified_travel_plan",
+      "city": "Pehowa",
+      "itinerary": [
+        {
+          "day": 1,
+          "places": [
+            {
+              "place_name": "Prachi Tirtha",
+              "short_description": "A sacred waterfront where pilgrims perform ancestral rituals; the shimmering waters at dawn create a cinematic spiritual atmosphere.",
+              "best_time_to_visit": "5:30 AM - 7:30 AM",
+              "image_url": "https://images.unsplash.com/photo-1590050752117-23a9776ee01d"
+            },
+            {
+              "place_name": "Saraswati Temple",
+              "short_description": "An ancient shrine dedicated to the Goddess of Knowledge, located on the banks of the mystical Saraswati river bed.",
+              "best_time_to_visit": "9:00 AM - 11:00 AM",
+              "image_url": "https://images.unsplash.com/photo-1618173745822-aa468fb81432"
+            },
+            {
+              "place_name": "Evening Aarti at Pehowa Ghats",
+              "short_description": "Experience the soul-stirring ritual of fire and chants as lamps are floated on the holy sarovar during twilight.",
+              "best_time_to_visit": "6:30 PM - 7:30 PM",
+              "image_url": "https://images.unsplash.com/photo-1598971861713-54ad16a7e72e"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "places": [
+            {
+              "place_name": "Kartikeya Temple",
+              "short_description": "A unique temple where women are traditionally not allowed in the inner sanctum, known for its distinct rituals and ancient stone structure.",
+              "best_time_to_visit": "10:00 AM - 12:00 PM",
+              "image_url": "https://images.unsplash.com/photo-1624783353450-48e028169956"
+            },
+            {
+              "place_name": "Vishwamitra Tirtha",
+              "short_description": "A site of great mythological importance where Sage Vishwamitra is said to have performed intense penance.",
+              "best_time_to_visit": "2:30 PM - 4:30 PM",
+              "image_url": "https://images.unsplash.com/photo-1585123334904-845d60e97b29"
+            },
+            {
+              "place_name": "Saraswati Wildlife Sanctuary",
+              "short_description": "Located on the outskirts, this dense forest area offers a glimpse into the raw natural beauty and local flora of Haryana.",
+              "best_time_to_visit": "7:00 AM - 10:00 AM",
+              "image_url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "places": [
+            {
+              "place_name": "Brahma Yoni Tirtha",
+              "short_description": "A sacred spot believed to be associated with Lord Brahma, featuring ancient carvings and a tranquil pool of water.",
+              "best_time_to_visit": "8:30 AM - 10:30 AM",
+              "image_url": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc"
+            },
+            {
+              "place_name": "Prithudak Lake",
+              "short_description": "The historic lake from which the city derives its name; a serene spot for reflection on the region's royal past.",
+              "best_time_to_visit": "4:00 PM - 6:00 PM",
+              "image_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+            },
+            {
+              "place_name": "Local Pehowa Market",
+              "short_description": "Explore the traditional markets for local handicrafts, brass items, and authentic regional sweets.",
+              "best_time_to_visit": "6:30 PM - 8:30 PM",
+              "image_url": "https://images.unsplash.com/photo-1516594798947-e65505dbb29d"
+            }
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "category_name": "Luxury",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Pearl Marc (Nearby)",
+              "area": "Kurukshetra-Pehowa Road",
+              "why_good": "The most premium stay option accessible to Pehowa, offering modern amenities and refined dining."
+            }
+          ]
+        },
+        {
+          "category_name": "Mid-range",
+          "hotels": [
+            {
+              "hotel_name": "Hotel Saffron",
+              "area": "Main Road",
+              "why_good": "A well-maintained property perfect for pilgrims and families looking for comfort and local hospitality."
+            }
+          ]
+        },
+        {
+          "category_name": "Budget",
+          "hotels": [
+            {
+              "hotel_name": "Local Pilgrim Guest House",
+              "area": "Near Prachi Tirtha",
+              "why_good": "Clean and basic accommodation providing an authentic stay experience right in the heart of the sacred district."
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "category_name": "Local Traditional",
+          "restaurants": [
+            {
+              "restaurant_name": "Pehowa Dhaba",
+              "cuisine": "Punjabi-Haryanvi",
+              "why_visit": "Famous for its buttery parathas and thick lassi, serving the authentic taste of the highway."
+            }
+          ]
+        },
+        {
+          "category_name": "Modern Cafe",
+          "restaurants": [
+            {
+              "restaurant_name": "The Coffee House",
+              "cuisine": "Snacks / Beverages",
+              "why_visit": "A modern respite in the ancient town, offering a variety of quick bites and excellent cold coffee."
+            }
+          ]
+        },
+        {
+          "category_name": "Famous Speciality",
+          "restaurants": [
+            {
+              "restaurant_name": "Pehowa Pinni Bhandar",
+              "cuisine": "Traditional Sweets",
+              "why_visit": "Pehowa is famous for its 'Pinni' and 'Milk Cake'; this shop offers the best handcrafted versions in the city."
+            }
+          ]
+        }
+      ]
     }
   }
 }
